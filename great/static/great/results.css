@@ -1,0 +1,11 @@
+.revoteButton {
+    border: black 1px solid;
+    border-radius: 15px;
+    background-color: honeydew;
+    font-size: 1em;
+    padding: 10px;
+    margin-top: 10px;
+
+    text-decoration: none;
+    color: black;
+}
