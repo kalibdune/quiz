@@ -1,1 +1,2 @@
-# quiz
+# Django опросник 
+Django quiz
